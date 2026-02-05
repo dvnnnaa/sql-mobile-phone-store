@@ -1,2 +1,7 @@
-# sql-mobile-phone-store
-SQL database project for a mobile phone store, including JOIN and aggregate queries.
+# SQL Mobile Phone Store Database
+
+This project focuses on building an SQL database for a mobile phone store.
+
+## Tools
+- MySQL
+- SQL
